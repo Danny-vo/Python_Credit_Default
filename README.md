@@ -1,2 +1,3 @@
 # Machine_Learning_in_Python
 Using pandas, numpy and sci-kit learn package to predict Credit Default Risk
+This is my assignment for a unit called Applied Predictive Analytics. In this assigment, objective is to clean up the data, merge two files Application record and Creidt record dataset, and use Machine Learning algorithm to classify if a person is going to default or not. Python pandas and numpy were used to clean and standardize the dataset. Imputation for missing values was used as well. Sci-kit learn packages such as Logistic Regression Classifier and Random Forest Classifier were used to classify and Accuracy score was the criteria to assess the 2 models. 
