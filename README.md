@@ -1,7 +1,7 @@
 # Machine_Learning_in_Python
 Using pandas, numpy and sci-kit learn package to predict Credit Default Risk
 
-Individual assignment for BUSA8001-Applied Predictive Analytics.
+Individual assignment
 
 Objective: Predict the proabability of a customer default their credit based on 18 features (Annual Income, Level of Education, Number of Children, Occupation type, ...)
 
